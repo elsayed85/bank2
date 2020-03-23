@@ -12,7 +12,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Omarashi\\KuveytTurkPos\\": "src/"
+            "elsayed85\\bank2\\": "src/"
         }
     },
     "require": {}
