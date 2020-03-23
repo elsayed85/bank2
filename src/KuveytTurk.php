@@ -1,6 +1,6 @@
 <?php
 
-namespace Omarashi\KuveytTurkPos;
+namespace elsayed85\bank2;
 
 use Omarashi\KuveytTurkPos\PaymentBase;
 
