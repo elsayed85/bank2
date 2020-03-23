@@ -1,12 +1,12 @@
 {
-    "name": "omarashi/laravel-kuveytturk-pos",
+    "name": "elsayed85/bank2",
     "description": "Laravel Package For Kuveyt Turk Bank Virtual POS Integration",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "omarashi",
-            "email": "omer.alachi@gmail.com"
+            "name": "elsayed",
+            "email": "elsayedkamal581999@gmail.com"
         }
     ],
     "minimum-stability": "dev",
